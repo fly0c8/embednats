@@ -3,6 +3,7 @@ module github.com/fly0c8/embednats
 go 1.16
 
 require (
+	github.com/gorilla/websocket v1.4.2 // indirect
 	github.com/nats-io/gnatsd v1.4.1 // indirect
 	github.com/nats-io/nats-server v1.4.1 // indirect
 	github.com/nats-io/nats-server/v2 v2.3.3 // indirect
